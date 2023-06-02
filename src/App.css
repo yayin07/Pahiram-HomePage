@@ -32,7 +32,122 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/* ......NavBar................. */
+.bg{
+  background: #F35E0C;
+}
+
+.navbar{
+  background-color: #363635;
+}
+
+.nav{font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+.navsignin {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+
+/* ..................home.............. */
+ .bghome{
+    background-image: url(./img/bg.jpg);
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 46px;
+   
+ }
+ .BG {
+   background-color: #E7EAEE;
+ }
+
+ .sign{
+  background-color: #E7EAEE;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    font-style: normal;
+ }
+
+
+/*........... Foooter............... */
+.bg-foot {
+  background-color:  #3E3E3D;
+  font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.foot-bg {
+  background-color: #4E4E4E;
+    font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      font-size: 18px;
+}
+
+.top{
+    font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+}
+
+
+.foot-bottom {
+  background-color: #3E3E3D;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+
+
+
+.Orange{
+  color: #F35E0C;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+
+.Blue {
+  color: #1D4ED8;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.pahiram{
+  color: #F35E0C;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+.bg-o{
+  background-color: #F35E0C;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.lorem{
+  font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 14px; 
+}
+
+.price{
+  color: #F35E0C;
+  font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
 }
